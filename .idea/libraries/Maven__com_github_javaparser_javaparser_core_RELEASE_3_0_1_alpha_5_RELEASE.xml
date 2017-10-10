@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.javaparser:javaparser-core:RELEASE:3.0.1-alpha.5-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.0.1-alpha.5-RELEASE/javaparser-core-3.0.1-alpha.5-RELEASE-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.0.1-alpha.5-RELEASE/javaparser-core-3.0.1-alpha.5-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.0.1-alpha.5-RELEASE/javaparser-core-3.0.1-alpha.5-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

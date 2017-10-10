@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTrace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTraceCriteria" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTraceExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTraceHelloWorld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTraceProfiling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amvTraceTestApplicationUnwoven" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

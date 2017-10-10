@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amvCore.iml" filepath="$PROJECT_DIR$/amvCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvTraceTestApplicationUnwoven/amvTraceApplicationUnwoven.iml" filepath="$PROJECT_DIR$/amvTraceTestApplicationUnwoven/amvTraceApplicationUnwoven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvTraceCriteria/amvTraceCriteria.iml" filepath="$PROJECT_DIR$/amvTraceCriteria/amvTraceCriteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvTraceExample/amvTraceExample.iml" filepath="$PROJECT_DIR$/amvTraceExample/amvTraceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvTraceProfiling/amvTraceProfiling.iml" filepath="$PROJECT_DIR$/amvTraceProfiling/amvTraceProfiling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvTraceHelloWorld/helloworld.iml" filepath="$PROJECT_DIR$/amvTraceHelloWorld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../amWs/loan-services-web.iml" filepath="$PROJECT_DIR$/../amWs/loan-services-web.iml" />
+    </modules>
+  </component>
+</project>
